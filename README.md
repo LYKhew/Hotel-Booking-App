@@ -20,12 +20,6 @@ An Android application that allows users to book hotel rooms, event spaces, spa 
 - **Backend**: Firebase Firestore & Firebase Authentication
 - **Other Tools**: Firebase Realtime Database, Firebase Storage
 
----
 
-## 🔗 Full Project Download
-
-Due to GitHub file size limits, the full project including assets and code is available via Google Drive:
-
-👉 [Download Full Project on Google Drive](https://drive.google.com/file/d/1vQfkY1ghRJQ2oez3tnFi3kzdjExKehFb/view?usp=sharing)
 
 
