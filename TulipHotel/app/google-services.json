@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53923867685",
+    "project_id": "tuliphotel-34d82",
+    "storage_bucket": "tuliphotel-34d82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53923867685:android:c458ad2a7fe9cd090863cc",
+        "android_client_info": {
+          "package_name": "com.example.tuliphotel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHGzy54Q1GElCY-s9x-OD4eXyoxT91h_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

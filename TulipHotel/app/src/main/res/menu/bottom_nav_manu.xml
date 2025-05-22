@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_meeting_events"
+        android:icon="@drawable/ic_meeting_events"
+        android:title="Events"/>
+
+    <item
+        android:id="@+id/navigation_services"
+        android:icon="@drawable/ic_services"
+        android:title="Services"/>
+
+    <item
+        android:id="@+id/navigation_room_booking"
+        android:icon="@drawable/ic_room_booking"
+        android:title="Rooms"/>
+
+    <item
+        android:id="@+id/navigation_review_ratings"
+        android:icon="@drawable/ic_review_ratings"
+        android:title="Reviews"/>
+</menu>
